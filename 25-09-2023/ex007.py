@@ -15,3 +15,5 @@ def menor_maior_valor(lista):
 
 lista = [40, 30, 4, 10, 100, 9, 20, 10, 3, 10]
 print(menor_maior_valor(lista))
+
+# teste
